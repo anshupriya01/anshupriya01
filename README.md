@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Data Analyst | Power BI Developer | SQL Enthusiast</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/anshupriya01/anshupriya01/main/anshupriya-banner.png" alt="Anshupriya Singh Banner">
+  <img src="https://raw.githubusercontent.com/anshupriya01/anshupriya01/main/anshupriya_banner.png" alt="Anshupriya Singh Banner">
 </p>
 
 
