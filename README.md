@@ -67,6 +67,3 @@
   🌍 Surveyed global data pros to assess salary, work-life balance & tech preferences.  
   🗂️ Provided actionable insight for organizational strategy.
 
----
-
-> 💡 *“Data is a story—I'm here to tell it visually, clearly, and impactfully.”*
