@@ -1,6 +1,5 @@
 <p align="center">
-  <!-- Replace with actual image link -->
-  <img src="https://github.com/anshupriya01/anshupriya01/assets/your-image-id/banner.png" alt="Welcome Banner" />
+  <img src="https://raw.githubusercontent.com/anshupriya01/anshupriya01/main/anshupriya_banner.png" alt="Anshupriya Singh Banner">
 </p>
 
 <h1 align="center">Hi 👋, I'm Anshupriya Singh</h1>
